@@ -7,7 +7,7 @@ const DietCoke = () => {
             <img src="https://images-na.ssl-images-amazon.com/images/I/51X6Uqo55gL._SX466_PIbundle-24,TopRight,0,0_AA466SH20_.jpg" alt=""></img>
         </div>
         <div className="DietCoke-Menu">
-            <Link to="/">Menu</Link>
+            <Link to="/">Back to Vending Machine Menu</Link>
         </div>
     </div>
 

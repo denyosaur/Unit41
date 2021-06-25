@@ -7,7 +7,7 @@ const Potato = () => {
             <img src="https://www.alimentarium.org/en/system/files/thumbnails/image/AL027-01_pomme_de_terre_0.jpg" alt=""></img>
         </div>
         <div className="Potato-Menu">
-            <Link to="/">Menu</Link>
+            <Link to="/">Back to Vending Machine Menu</Link>
         </div>
     </div>
 

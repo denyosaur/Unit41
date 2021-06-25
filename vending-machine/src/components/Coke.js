@@ -7,7 +7,7 @@ const Coke = () => {
             <img src="https://images-na.ssl-images-amazon.com/images/I/61Q7SR0r9XL._SL1500_.jpg" alt=""></img>
         </div>
         <div className="Coke-Menu">
-            <Link to="/">Menu</Link>
+            <Link to="/">Back to Vending Machine Menu</Link>
         </div>
     </div>
 
